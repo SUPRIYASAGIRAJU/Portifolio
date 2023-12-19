@@ -1,0 +1,39 @@
+---
+title: "Supriya Sagiraju"
+image: supriya.jpg
+resources: SUPRIYASAGIRAJUResume.pdf
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 15em
+  links:
+  - text: Email
+    icon: envelope
+    href: mailto:supriyasai.work@gmail.com
+  - text: Linkin
+    icon: envelope
+    href: https://www.linkedin.com/in/supriya-varma-2710951aa/
+  - text: GitHub
+    icon: github
+    href: https://github.com/SUPRIYASAGIRAJU
+  - text: Resume
+    icon: file-text
+    href: SUPRIYASAGIRAJUResume.pdf
+  id: ppc
+    
+---
+
+:::{#ppc}
+Supriya Sagiraju is currently pursuing a Master of Science in Advanced Data Analytics at the University of North Texas.
+
+She obtained her Bachelor of Science in Biotechnology from the Gandhi Institute of Technology and Management in Visakhapatnam. For the past 8 months, she has been employed as a Data Engineer for Amazon Development Centre India Pvt Ltd in Hyderabad, AP.
+
+She has extensive expertise in Python, SQL, and Big Data technologies, such as Hadoop, Hive, and Tableau.</p>
+
+She is proficient in Tableau, Eclipse, RStudio, Python, Eclipse, and Microsoft Office. With a deep understanding of Python, SQL, and Big Data technologies such as Hadoop, Hive, and Tableau, she has extensive expertise in working with a variety of programming languages, operating systems, databases/tools, cloud platforms, and web technologies.</p>
+
+:::
+
+```{r}
+
+```

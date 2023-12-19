@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Supriya Sagiraju"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: resume.qmd
+        text: Resume
+      - href: contributions.qmd
+        text: Contributions
+      - href: articles.qmd
+        text: Articles
+
+    
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: source
+

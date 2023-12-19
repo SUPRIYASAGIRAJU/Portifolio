@@ -1,0 +1,27 @@
+---
+title: "The Effect of the Pitch Clock on MLB Pitchers "
+author: "Diana Bergeman, Eric Droegemeier, Gregory Ehlinger, Triniti Lemmons, Mauricio Sanchez"
+date: "2023-06-23"
+categories: [Python, Analysis]
+image: "MLB.PNG"
+    
+---
+
+Analyzes the effect of the Pitch Clock on MLB Pitchers during the 2023 MLB Season.
+
+<iframe
+  width="850"
+  height="480"
+  src="MLB.PNG">
+</iframe>
+
+<a href="MLB code.pdf" download="MLB code.pdf" class="download-btn">MLB Pitchclock Code Download</a>
+
+<a href="MLB code 2.pdf" download="MLB code 2.pdf" class="download-btn">MLB Pitchclock Code 2 Download</a>
+
+<a href="MLB Report.docx" download="MLB Report.docx" class="download-btn">MLB Pitchclock Report Download</a>
+
+<a href="PitchingVolations.csv" download="PitchingVolations.csv" class="download-btn">MLB Pitchclock Dataset Download</a>
+ 
+For this Project, Diana Bergeman, Eric Droegemeier, Triniti Lemmons, Mauricio Sanchez and I analyzed data on the effect of the newly-implemented pitch clock in the MLB on pitchers. We looked for correlations and trends between individual and total pitching statistics from the 2022 and 2023 MLB seasons. We determined that there was minimal to no effect on pitcher performance. We primarily used Python for this project.
+

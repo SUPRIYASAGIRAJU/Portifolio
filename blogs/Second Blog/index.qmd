@@ -1,0 +1,22 @@
+---
+title: "Sentiment Analysis of Twitter Data using Python, Tensorflow, and keras"
+author: "SUPRIYA SAGIRAJU"
+date: "2023-11-21"
+image: "twitter.png"
+    
+---
+
+## Sentiment Analysis of Twitter Data
+
+The objective of this project was to analyze the sentiment expressed in tweets related to a specific topic and gain insights
+into public opinion and attitudes on social media. Natural language processing (NLP) techniques were employed for sentiment analysis. 
+Built sentiment classification models
+using machine learning algorithms like Naive Bayes, Support Vector Machines (SVM)
+or Recurrent Neural Networks (RNN). The sentiment analysis of Twitter data provided valuable insights into the public sentiment, opinions, and attitudes
+regarding the specific topic. These insights could be utilized for brand monitoring, reputation management, customer
+feedback analysis, or tracking the impact of events or campaigns on social media.
+
+
+
+
+

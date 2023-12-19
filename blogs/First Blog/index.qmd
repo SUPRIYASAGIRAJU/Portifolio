@@ -1,0 +1,21 @@
+---
+title: "Predictive analysis for Heart Stroke in Patients Using R, Deep learning, and Regression"
+author: "SUPRIYA SAGIRAJU"
+date: "2023-10-10"
+image: "heart.jpg"
+    
+---
+
+## Predictive analysis for Heart Stroke in Patients
+This project is aimed to develop a predictive model to determine the likelihood of heart stroke in patients based on various
+health parameters and patient information. The goal was to identify high-risk individuals for early intervention and
+preventive measures. 
+
+The trained model was evaluated on the testing set using performance metrics such as accuracy, precision, recall, and
+F1-score. The receiver operating characteristic (ROC) curve and area under the curve (AUC) were used to assess the
+model's predictive power and determine an appropriate classification threshold.
+
+Based on the model predictions, recommendations could be provided to healthcare professionals for identifying high-risk
+patients and implementing preventive strategies, such as lifestyle modifications or targeted medical interventions.
+
+
